@@ -294,8 +294,8 @@ a {
 .search-input .search-icon {
   position: absolute;
   left: 20px;
-  top: 50%;
-  transform: translateY(-200%);
+  top: 20%;
+  
   color: var(--text-light);
   font-size: 20px;
 }
