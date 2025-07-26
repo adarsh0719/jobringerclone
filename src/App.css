@@ -295,7 +295,7 @@ a {
   position: absolute;
   left: 20px;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-200%);
   color: var(--text-light);
   font-size: 20px;
 }
